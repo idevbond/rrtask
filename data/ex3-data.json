@@ -1,0 +1,182 @@
+[
+  {
+    "boo_return": false,
+    "co2_kg": 247.81,
+    "price_eur": 192.0,
+    "workTime_sec": 0,
+    "duration_out_sec": 35199.0,
+    "desc": "Berne-Berlin via Car dep 2013-12-25 08:00:00 +0100, arr 2013-12-25 17:46:39 +0100 | \n\r",
+    "id": "df46506c2f5d631d19d263d83685276261376ab8"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 163.86,
+    "price_eur": 145.09748940332574,
+    "workTime_sec": 4260.0,
+    "duration_out_sec": 19473.0,
+    "desc": "bern-brn via Bus dep 2013-12-25 15:12:00 +0100, arr 2013-12-25 15:38:00 +0100 | \n\rBern-Belp (BRN)-Berlin (TXL) via Plane dep 2013-12-25 17:10:00 +0100, arr 2013-12-25 18:50:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 19:50:00 +0100, arr 2013-12-25 20:36:33 +0100 | \n\r",
+    "id": "841d7bc21318c5c7e26e2d5afabe6cbe2de4bf83"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 167.58,
+    "price_eur": 146.0,
+    "workTime_sec": 3600.0,
+    "duration_out_sec": 19577.0,
+    "desc": "Berne-Bern-Belp (BRN) via Car dep 2013-12-25 15:10:16 +0100, arr 2013-12-25 15:40:00 +0100 | \n\rBern-Belp (BRN)-Berlin (TXL) via Plane dep 2013-12-25 17:10:00 +0100, arr 2013-12-25 18:50:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 19:50:00 +0100, arr 2013-12-25 20:36:33 +0100 | \n\r",
+    "id": "13c7865c3b755856b0793e43f64d293798a3af53"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 46.98,
+    "price_eur": 119.0,
+    "workTime_sec": 25680.0,
+    "duration_out_sec": 29280.0,
+    "desc": "Bern-Berlin Hbf via Train dep 2013-12-25 08:04:00 +0100, arr 2013-12-25 16:12:00 +0100 | \n\r",
+    "id": "7e7abccf147911396939e3cfed45460eea500732"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 41.77,
+    "price_eur": 99.0,
+    "workTime_sec": 28860.0,
+    "duration_out_sec": 30060.0,
+    "desc": "Bern-Berlin Hbf via Train dep 2013-12-25 09:04:00 +0100, arr 2013-12-25 17:25:00 +0100 | \n\r",
+    "id": "1dc02a1bb5abae8f554d4ef461a7b570601df594"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 42.16,
+    "price_eur": 139.0,
+    "workTime_sec": 28860.0,
+    "duration_out_sec": 32460.0,
+    "desc": "Bern-Berlin Hbf (tief) via Train dep 2013-12-25 09:04:00 +0100, arr 2013-12-25 18:05:00 +0100 | \n\r",
+    "id": "a21b31e87b4bad912dc55d247aa17161eea55ccd"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 46.98,
+    "price_eur": 139.0,
+    "workTime_sec": 25560.0,
+    "duration_out_sec": 29160.0,
+    "desc": "Bern-Berlin Hbf via Train dep 2013-12-25 10:04:00 +0100, arr 2013-12-25 18:10:00 +0100 | \n\r",
+    "id": "6546afd6be62742e61962cd7da9796ee83dd0027"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 41.77,
+    "price_eur": 99.0,
+    "workTime_sec": 28860.0,
+    "duration_out_sec": 30060.0,
+    "desc": "Bern-Berlin Hbf via Train dep 2013-12-25 11:04:00 +0100, arr 2013-12-25 19:25:00 +0100 | \n\r",
+    "id": "c464fb1f719e550ffa9b3c9683a8a620349a2589"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 584.21,
+    "price_eur": 320.33,
+    "workTime_sec": 21000.0,
+    "duration_out_sec": 43018.0,
+    "desc": "Berne-Zürich (ZRH) via Car dep 2013-12-25 08:49:35 +0100, arr 2013-12-25 10:20:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:50:00 +0100, arr 2013-12-25 19:00:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 20:00:00 +0100, arr 2013-12-25 20:46:33 +0100 | \n\r",
+    "id": "48e094eadf9ec00d3b6d3d2192def58fe3fc5fe0"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 552.8199999999999,
+    "price_eur": 337.53,
+    "workTime_sec": 24240.0,
+    "duration_out_sec": 42273.0,
+    "desc": "Bern-Zürich Flughafen via Train dep 2013-12-25 09:02:00 +0100, arr 2013-12-25 10:16:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:50:00 +0100, arr 2013-12-25 19:00:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 20:00:00 +0100, arr 2013-12-25 20:46:33 +0100 | \n\r",
+    "id": "fe9d5e4776307656d7f893178f561aa195004a33"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 285.56,
+    "price_eur": 247.0,
+    "workTime_sec": 12300.0,
+    "duration_out_sec": 34318.0,
+    "desc": "Berne-Zürich (ZRH) via Car dep 2013-12-25 08:29:35 +0100, arr 2013-12-25 10:00:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:30:00 +0100, arr 2013-12-25 16:15:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 17:15:00 +0100, arr 2013-12-25 18:01:33 +0100 | \n\r",
+    "id": "34e75694bae77b601e08180dda032d4a35058ca4"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 254.17000000000002,
+    "price_eur": 264.2,
+    "workTime_sec": 15780.0,
+    "duration_out_sec": 34173.0,
+    "desc": "Bern-Zürich Flughafen via Train dep 2013-12-25 08:32:00 +0100, arr 2013-12-25 09:50:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:30:00 +0100, arr 2013-12-25 16:15:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 17:15:00 +0100, arr 2013-12-25 18:01:33 +0100 | \n\r",
+    "id": "6aaa332c483c6def5856bbd1105afc1db9951e0f"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 291.88,
+    "price_eur": 243.1,
+    "workTime_sec": 15900.0,
+    "duration_out_sec": 37918.0,
+    "desc": "Berne-Zürich (ZRH) via Car dep 2013-12-25 08:49:35 +0100, arr 2013-12-25 10:20:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:50:00 +0100, arr 2013-12-25 17:35:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 18:35:00 +0100, arr 2013-12-25 19:21:33 +0100 | \n\r",
+    "id": "f909af2d8b8fd28f3d3b37a2ed0e5a5c8cca8e61"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 260.49,
+    "price_eur": 260.3,
+    "workTime_sec": 19140.0,
+    "duration_out_sec": 37173.0,
+    "desc": "Bern-Zürich Flughafen via Train dep 2013-12-25 09:02:00 +0100, arr 2013-12-25 10:16:00 +0100 | \n\rZürich (ZRH)-Berlin (TXL) via Plane dep 2013-12-25 11:50:00 +0100, arr 2013-12-25 17:35:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 18:35:00 +0100, arr 2013-12-25 19:21:33 +0100 | \n\r",
+    "id": "1f6cb03cdb231569f4f124e1e03f230bb8217702"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 193.71000000000004,
+    "price_eur": 833.0,
+    "workTime_sec": 12300.0,
+    "duration_out_sec": 33696.0,
+    "desc": "Berne-Basel (BSL) via Car dep 2013-12-25 08:19:57 +0100, arr 2013-12-25 09:40:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 11:10:00 +0100, arr 2013-12-25 15:55:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 16:55:00 +0100, arr 2013-12-25 17:41:33 +0100 | \n\r",
+    "id": "15676961f6cd5ae2ea506d3a9c7561d0d6bc5bd0"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 167.20000000000002,
+    "price_eur": 844.8,
+    "workTime_sec": 13500.0,
+    "duration_out_sec": 34653.0,
+    "desc": "Bern-Basel, EuroAirport via Train dep 2013-12-25 08:04:00 +0100, arr 2013-12-25 09:24:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 11:10:00 +0100, arr 2013-12-25 15:55:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 16:55:00 +0100, arr 2013-12-25 17:41:33 +0100 | \n\r",
+    "id": "c36258cde2dffbb8624b237777d03fe2b76251d8"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 186.04000000000002,
+    "price_eur": 840.8,
+    "workTime_sec": 9120.0,
+    "duration_out_sec": 29553.0,
+    "desc": "Bern-Basel, EuroAirport via Train dep 2013-12-25 10:04:00 +0100, arr 2013-12-25 11:31:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 13:05:00 +0100, arr 2013-12-25 16:30:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 17:30:00 +0100, arr 2013-12-25 18:16:33 +0100 | \n\r",
+    "id": "f6d95f6fae9cc2bdc42a620721665856b6848adb"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 212.55,
+    "price_eur": 829.0,
+    "workTime_sec": 7500.0,
+    "duration_out_sec": 28896.0,
+    "desc": "Berne-Basel (BSL) via Car dep 2013-12-25 10:14:57 +0100, arr 2013-12-25 11:35:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 13:05:00 +0100, arr 2013-12-25 16:30:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 17:30:00 +0100, arr 2013-12-25 18:16:33 +0100 | \n\r",
+    "id": "7450e8cf4e5c4fd8b75951bb8d84a1ba2093d6a5"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 301.07000000000005,
+    "price_eur": 299.74,
+    "workTime_sec": 17580.0,
+    "duration_out_sec": 38976.0,
+    "desc": "Berne-Basel (BSL) via Car dep 2013-12-25 08:01:57 +0100, arr 2013-12-25 09:22:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 10:52:00 +0100, arr 2013-12-25 17:05:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 18:05:00 +0100, arr 2013-12-25 18:51:33 +0100 | \n\r",
+    "id": "ce892981378bd4af5b626c25ac43bcfcf1d0387f"
+  },
+  {
+    "boo_return": false,
+    "co2_kg": 251.89000000000001,
+    "price_eur": 474.55,
+    "workTime_sec": 16800.0,
+    "duration_out_sec": 38733.0,
+    "desc": "Bern-Basel, EuroAirport via Train dep 2013-12-25 08:36:00 +0100, arr 2013-12-25 10:11:00 +0100 | \n\rBasel (BSL)-Berlin (TXL) via Plane dep 2013-12-25 11:50:00 +0100, arr 2013-12-25 17:35:00 +0100 | \n\rBerlin (TXL)-Berlin via Car dep 2013-12-25 18:35:00 +0100, arr 2013-12-25 19:21:33 +0100 | \n\r",
+    "id": "695fabd425c6f38ce1bfda68344547a517816d5a"
+  }
+]

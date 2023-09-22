@@ -1,0 +1,18 @@
+{
+    "co2_kg": {
+        "lessIsBetter": true,
+        "coefficient": "5%"
+    },
+    "price_eur": {
+        "lessIsBetter": true,
+        "coefficient": "30%"
+    },
+    "workTime_sec": {
+        "lessIsBetter": false,
+        "coefficient": "5%"
+    },
+    "duration_out_sec": {
+        "lessIsBetter": true,
+        "coefficient":"60%"
+    }
+}
